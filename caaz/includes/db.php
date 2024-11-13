@@ -1,0 +1,1 @@
+<?php $mysqli = new mysqli('localhost','super_admin','StrongPasssword123!','caaz');?>
